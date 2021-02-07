@@ -1,0 +1,45 @@
+2021-01-24 17:41:27,002 ERROR frappe New Exception collected with id: 2021-01-24 17:41:26.678431-127.0.0.1-93a
+Site: library.test
+Form Dict: {'cmd': 'frappe.desk.desktop.get_desktop_page'}
+2021-01-24 20:40:54,498 ERROR frappe New Exception collected with id: 2021-01-24 20:40:54.351821-127.0.0.1-75f
+Site: library.test
+Form Dict: {'cmd': 'frappe.realtime.get_user_info'}
+2021-01-24 20:51:51,273 ERROR frappe New Exception collected with id: 2021-01-24 20:51:51.122751-127.0.0.1-d1a
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"New Library Member 1","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"23","last_name":"44"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-24 20:51:57,837 ERROR frappe New Exception collected with id: 2021-01-24 20:51:57.442276-127.0.0.1-a29
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"New Library Member 1","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"23","last_name":"44"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-24 20:52:29,508 ERROR frappe New Exception collected with id: 2021-01-24 20:52:29.477789-127.0.0.1-385
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"New Library Member 2","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"bas","last_name":"bast"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-24 20:53:28,399 ERROR frappe New Exception collected with id: 2021-01-24 20:53:28.373310-127.0.0.1-ff2
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"New Library Member 1","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"te","last_name":"ssss"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-31 17:30:46,184 ERROR frappe New Exception collected with id: 2021-01-31 17:30:45.961481-127.0.0.1-109
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"New Library Member 1","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"test1","last_name":"test2","email_address":"ddd@gamil.com","phone":"000","date_of_birth":"2021-01-26"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-31 18:22:48,412 ERROR frappe New Exception collected with id: 2021-01-31 18:22:48.163681-127.0.0.1-72f
+Site: library.test
+Form Dict: {'doc': '{"name":"LT00001","owner":"Administrator","creation":"2021-01-31 18:22:33.401121","modified":"2021-01-31 18:22:33.401121","modified_by":"Administrator","parent":null,"parentfield":null,"parenttype":null,"idx":0,"docstatus":0,"article":"The Second","lirbary_member":"LM00006","type":"Issue","date":"2021-01-28","amended_from":null,"doctype":"Library Transaction","__last_sync_on":"2021-01-31T11:22:33.839Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-31 18:23:57,483 ERROR frappe New Exception collected with id: 2021-01-31 18:23:57.467531-127.0.0.1-44d
+Site: library.test
+Form Dict: {'doc': '{"name":"LT00001","owner":"Administrator","creation":"2021-01-31 18:22:33.401121","modified":"2021-01-31 18:23:52.707593","modified_by":"Administrator","idx":0,"docstatus":0,"article":"The Second","type":"Issue","date":"2021-01-28","doctype":"Library Transaction","library_member":"LM00006"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2021-01-31 19:40:07,661 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.652705-127.0.0.1-2a7
+Site: library.test
+Form Dict: {'cmd': 'frappe.chat.doctype.chat_profile.chat_profile.create'}
+2021-01-31 19:40:07,662 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.327084-127.0.0.1-5b7
+Site: library.test
+Form Dict: {'cmd': 'frappe.desk.form.load.getdoctype'}
+2021-01-31 19:40:07,661 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.652705-127.0.0.1-2a7
+Site: library.test
+Form Dict: {'cmd': 'frappe.chat.doctype.chat_profile.chat_profile.create'}
+2021-01-31 19:40:07,662 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.327084-127.0.0.1-5b7
+Site: library.test
+Form Dict: {'cmd': 'frappe.desk.form.load.getdoctype'}
+2021-01-31 19:40:07,662 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.331696-127.0.0.1-919
+Site: library.test
+Form Dict: {'cmd': 'frappe.realtime.get_user_info'}
+2021-01-31 19:40:07,662 ERROR frappe New Exception collected with id: 2021-01-31 19:40:02.331696-127.0.0.1-919
+Site: library.test
+Form Dict: {'cmd': 'frappe.realtime.get_user_info'}
